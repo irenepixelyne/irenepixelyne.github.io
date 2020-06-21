@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/irenepixelyne/static/css/main.5f361e03.chunk.css",
+    "main.js": "/irenepixelyne/static/js/main.dad9e9a4.chunk.js",
+    "main.js.map": "/irenepixelyne/static/js/main.dad9e9a4.chunk.js.map",
+    "runtime-main.js": "/irenepixelyne/static/js/runtime-main.0695eb19.js",
+    "runtime-main.js.map": "/irenepixelyne/static/js/runtime-main.0695eb19.js.map",
+    "static/js/2.770b0aca.chunk.js": "/irenepixelyne/static/js/2.770b0aca.chunk.js",
+    "static/js/2.770b0aca.chunk.js.map": "/irenepixelyne/static/js/2.770b0aca.chunk.js.map",
+    "index.html": "/irenepixelyne/index.html",
+    "precache-manifest.08ca2ccfc930db2f0a7f668d1e892151.js": "/irenepixelyne/precache-manifest.08ca2ccfc930db2f0a7f668d1e892151.js",
+    "service-worker.js": "/irenepixelyne/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/irenepixelyne/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.770b0aca.chunk.js.LICENSE.txt": "/irenepixelyne/static/js/2.770b0aca.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/irenepixelyne/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0695eb19.js",
+    "static/js/2.770b0aca.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.dad9e9a4.chunk.js"
+  ]
+}
